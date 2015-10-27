@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Stewism</string>
+    <string name="stewism_main_activity">Stewism</string>
+    <string name="title_section1">Stewism List</string>
+    <string name="title_section2">Settings</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="whoa">Whoa!</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="terms_array">
+        <item>Sauce</item>
+        <item>Saucy</item>
+        <item>Yards</item>
+        <item>Fire Sauce</item>
+        <item>Green Pepper</item>
+        <item>Crushed Red Pepper</item>
+        <item>Jalapeno</item>
+        <item>Habanero</item>
+        <item>Ghost Chili</item>
+        <item>Carolina Reaper</item>
+        <item>TNL</item>
+        <item>Pinnacle</item>
+        <item>Wagon Wheel</item>
+    </string-array>
+
+    <string-array name="definitions_array">
+        <item>Sauce. A bro, buddy, and true pal.</item>
+        <item>Saucy. Not cool. You are flakin\' out on events. Not gettin\' yards bro</item>
+        <item>Yards are the measurement of frequency of how often you hangout with Stew. If Stew calls you, and you meet him at the bar, you are gettin\' yards! You are a top sauce if you get a lot of yards.</item>
+        <item>Fire Sauce. This is known as flakin\' out. If you say you are going to be at an event, then you go hang out or do something else without letting Stew know, then you are pullin\' a fire sauce. This is just not cool.</item>
+        <item>Green Pepper. This is a rating for a woman. She is a 5 out of 10 or lower. She\'s just ugly.</item>
+        <item>Stew smoked this once. I think he was in pain.</item>
+        <item>Jalapeno. This is a rating for a woman. She is a 6 or 7 out of 10. She\'s hot.</item>
+        <item>Habanero. This is a rating for a woman. She is an 8 out of 10. She\'s TNL and sexy.</item>
+        <item>Ghost Chili. This is a rating for a woman. She is a 9 out of 10. This girl is pinnacle! She is a rare gem.</item>
+        <item>Carolina Reaper. This is a rating for a woman. She is a 10 out of 10. There are only 5 girls this hot in the world. If that.</item>
+        <item>Thin and Lean.</item>
+        <item>Pinnacle. Top of the line quality.</item>
+        <item>A goof or a fool. You are a fool. Stop foolin\' around you wagon wheel.</item>
+    </string-array>
+    <string name="title_activity_stewism_splash_screen">StewismSplashScreen</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
